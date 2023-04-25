@@ -88,7 +88,7 @@ Though we try to avoid mounting on overly slanted drive rails, a bit of slant is
 ## 5. Start Sensing
 
 ## 6. Signage
-Mounting metal sign on drive rail (two nut and bolt fastners) or placing sticker on other mounting point.
+Mounting metal sign on drive rail (two lock nut and bolt fastners) or placing sticker on other mounting point.
 
 *<insert_image_sensor_signage>*
 
