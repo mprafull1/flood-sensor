@@ -92,7 +92,6 @@ This repo is built to run on CubeCell's example library. To install the CubeCell
   - Verify if CubeCell is working correctly, by opening the Serial Monitor in Arduino IDE. Make sure CubeCell is still connected to the computer.
     - On clicking on the magnifying icon the serial monitor will open.
     - Set the Baud to 115200.
-    </a>
     After setting the baud data will start showing on the serial monitor. Verify your `DevEUI`, `AppEUI` and `AppKey` in the window.
     <br>
     <br> 
@@ -138,7 +137,7 @@ Following are types of downlinks available categorized based on their functional
 
 #### Changing dutycycle
 
-Uplink frequency at the end node is determined by the TX_INTERVAL. This TX_INTERVAL is used as a variable in this library to add the functionality of varying duty cycle. Few examples of changing duty cycle by updating `TX_INTERVAL` are mentioned below:
+Uplink frequency at the end node is determined by the `TX_INTERVAL`. This `TX_INTERVAL` is used as a variable in this library to add the functionality of varying duty cycle. Few examples of changing duty cycle by updating `TX_INTERVAL` are mentioned below:
 
 | Command| Explanation|
 |---|---|
