@@ -28,27 +28,33 @@ This section details how we prepare for sensor deployment. Steps include compili
 This section contains the checklist for necessary tools, hardware, and equipment needed for the sensor deployment process.
 | No | Item                                       | Count/sensor |
 |----|--------------------------------------------|-------|
-| 1  | [High leverage combination pliers](https://www.knipex.com/products/combination-and-multifunctional-pliers/high-leverage-combination-pliers/high-leverage-combination-pliers/0205200)           | 1     |
-| 2  | [Adjustable wrench](https://www.kleintools.com/catalog/adjustable-wrenches/adjustable-wrench-standard-capacity-18-inch)                          | 1     |
-| 3  | [Phillips #2 screwdriver](https://www.kleintools.com/catalog/screwdrivers/2-phillips-screwdriver-4-round-shank)                    | 1     |
-|  4  | [Oversized Clipped Washers](https://www.mcmaster.com/93409A136/)                                           |    4   |
-|  5  | [Green Powder-Coated Steel Strut Channel with Mounting Plate]()                                           |    1   |
-|  6  | [Stainless Steel Hex Head Screw - 7/16"-14 thread size](https://www.mcmaster.com/92800A393/)                                           |    4   |
-|  7  |  [Locknuts - 7/16"-14 thread size](https://www.mcmaster.com/90630A112/)                                        |    4   |
-|  8  | Ratchet Wrench - 7/16", 1/2", 9/16" and 13mm                                                                        |1|
-|  9  | Wire cutter                                                                                   |1|
-| 10  | Plier                                                                                          |1|
-| 11  | Zipties                                                                                           |5|
-| 12  | Sockets - 12mm, 13mm and 14mm                                                                       |1 |
-| 13  | Power Drill                                                                                     |  1|
-| 14  | Steel Straps and strapping tool                                                                                          |1|
-| 15  | Circuler Bubble Level                                                                                           |  1 |
-| 16  | 3" Hex head M8 bolts and 3" Hex head M6 bolts                                                                 | 2+2 |
-| 17  | M8 Lock nut and Lock washer                                                                                   | 4 |
-| 18  | M6 Lock nut and Lock washer                                                                                   | 4 |
-| 19  | 1.5" Hex head M8 bolts and 1.5" Hex head M6 bolts                                                                 | 2+2 |
-| 20  | Foldable Ladder                                                                                                 |1|    
-| 21  | 3" mending plate                                                                                                |1|
+| 1  | [High leverage combination pliers](https://www.knipex.com/products/combination-and-multifunctional-pliers/high-leverage-combination-pliers/high-leverage-combination-pliers/0205200)         
+| 2  | [Adjustable wrench](https://www.kleintools.com/catalog/adjustable-wrenches/adjustable-wrench-standard-capacity-18-inch)                                  
+|  3  | [Oversized Clipped Washers](https://www.mcmaster.com/93409A136/)                                           |    4   |
+|  4  | [Stainless Steel Hex Head Screw - 7/16"-14 thread size](https://www.mcmaster.com/92800A393/)                                           |    4   |
+|  5  |  [Locknuts - 7/16"-14 thread size](https://www.mcmaster.com/90630A112/)                                        |    4   |
+|  6  | Ratchet Wrench - 7/16", 1/2", 9/16", 5/16" and 13mm                                                                
+|  7  | Wire cutter                                                                             
+|  8  | Plier                                                                                         
+|  9  | Zipties                                                                                           |5|
+| 10  | Long socket attachments - 12mm, 13mm and 14mm                                                                      
+| 11  | Power Drill                                                                                    
+| 12  | Steel Straps and strapping tool                                                                                        
+| 13  | Circuler Bubble Level                                                                                           |  1 |
+| 14  | 3" Hex head M8 bolts and 3" Hex head M6 bolts                                                                 | 2+2 |
+| 15  | M8 Lock nut(or 1/4"-20) and Lock washer                                                                                   | 4 |
+| 16  | M6 Lock nut(or 5/16"-20) and Lock washer                                                                                   | 4 |
+| 17  | 1.5" Hex head M8 bolts and 1.5" Hex head M6 bolts                                                                 | 2+2 |
+| 18  | A frame Ladder                                                                                                 
+| 19  | Flat mending plate                                                                                                |1|
+| 20  | Signage                                                                                                       |1|
+| 21  | Safety Vests                                                                                                    
+| 22  | Safety Hats 
+| 23  | Spare Antennas                                                                                                |1|
+| 24  | Socket adapters
+| 25  | Fliers
+| 26  | Electric screwdriver + attachments                                                                  
+
 ### 1.2. Notes on Sensor mount preparation
 After we have identified the ideal mounting infrastructure (see [Flood Hotspots Identification](https://github.com/floodnet-nyc/flood-sensor/blob/main/deployment/hotspot%20identification/flood-hotspots-identification.md) document), the next step is to identify the mounting position on the post/pole itself. 
 
